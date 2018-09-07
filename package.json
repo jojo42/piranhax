@@ -1,0 +1,62 @@
+{
+  "_from": "git+https://github.com/jojo42/piranhax.git",
+  "_id": "piranhax@1.0.9",
+  "_inBundle": false,
+  "_integrity": "sha1-p/9JGLF8Mdmos3HBudCu1IwGNUM=",
+  "_location": "/piranhax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/jojo42/piranhax.git",
+    "rawSpec": "git+https://github.com/jojo42/piranhax.git",
+    "saveSpec": "git+https://github.com/jojo42/piranhax.git",
+    "fetchSpec": "https://github.com/jojo42/piranhax.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/jojo42/piranhax.git#bc1cf9a90d0d9b621efb1b91a7c16d8ae05abae4",
+  "_spec": "git+https://github.com/jojo42/piranhax.git",
+  "_where": "/Users/jorisalbagnac/Documents/smarthome/maSmartHomeApp",
+  "author": {
+    "name": "Raitucarp"
+  },
+  "bugs": {
+    "url": "https://github.com/raitucarp/piranhax/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "moment": "^2.13.0",
+    "request": "^2.81.0",
+    "xml2js": "^0.4.16"
+  },
+  "deprecated": false,
+  "description": "Complete implementation package of Amazon Product Advertising API for Node.js ",
+  "devDependencies": {
+    "ava": "^0.15.2",
+    "lodash": "^4.13.1"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "homepage": "https://github.com/raitucarp/piranhax#readme",
+  "keywords": [
+    "affiliate",
+    "Amazon",
+    "AWSEcommerce"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "piranhax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raitucarp/piranhax.git"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "version": "1.0.9"
+}
